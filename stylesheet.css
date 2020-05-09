@@ -74,7 +74,7 @@ article {
 .jumbotron {
     font-size: 40px;
     padding: 180px 0 180px 0;
-    background-image: image (header.jpg);
+    background-image: url (header.jpg);
     background-size: cover;
     text-align: center;
     opacity: 0.8;
